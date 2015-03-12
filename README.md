@@ -1,3 +1,3 @@
 # Food-Review
 
-Evaluate food quality
+Evaluate food quality for py cooking
